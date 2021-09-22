@@ -1,6 +1,6 @@
 name: split_words
-description: A new Flutter package project.
-version: 0.1.0
+description: A Dart package to split words.
+version: 0.1.1
 homepage: https://github.com/BenSaidRachid/split_words
 issue_tracker: https://github.com/BenSaidRachid/split_words/issues
 
